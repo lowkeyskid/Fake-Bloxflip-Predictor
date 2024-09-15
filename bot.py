@@ -1,4 +1,4 @@
-# github.com/sofullstack
+# github.com/lowkeyskid
 # obviously random, logs prediction history to produce the same predictions for repeated game-ids
 import json
 import datetime
